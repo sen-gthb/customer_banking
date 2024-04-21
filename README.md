@@ -1,3 +1,2 @@
 # customer_banking
-M3 Challenge customer_banking
-This is a customer banking system that calculates and tracks interest earned on savings and CD accounts. Completed iteratively during a tutor session and also a study group with Adam Millington and JB Graham. 
+This is a Python coding challenge for a customer banking system that calculates and tracks interest earned on savings and CD accounts. Upon entering user's account information, this application calculates the interest earned and displayes the updated balances after a specified number of months. This was completed independently as well as in collaboarion in student study groups. 
